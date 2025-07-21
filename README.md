@@ -28,9 +28,8 @@ It reflects my continuous effort to build skills in computer science, programmin
 
 ---
 
-
-## 📁 Folder Structure
-
+📁 Folder Structure 
+``` 
 Certifications/
 ├── Harvard-CS50/
 │   ├── CS50x-Intro-to-CS.pdf
@@ -43,7 +42,7 @@ Certifications/
     ├── AI-Chatbot-Competition-2nd-Place.pdf
     ├── Paper-Presentation-VISISTA-2K25.pdf
     └── Generative-AI-Workshop-MRCE.pdf
-
+ ``` 
 
 ---
 
