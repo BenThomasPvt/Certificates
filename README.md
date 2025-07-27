@@ -25,6 +25,8 @@ It reflects my continuous effort to build skills in computer science, programmin
 | 2nd Place – AI Chatbot Competition (Mar 2025) | AI Club, MRCE                | [`AI-Chatbot-Competition-2nd-Place.pdf`](Events-and-Achievements/AI-Chatbot-Competition-2nd-Place.pdf) |
 | Paper Presentation – VISISTA 2K25           | MRCE Tech Fest               | [`Paper-Presentation-VISISTA-2K25.pdf`](Events-and-Achievements/Paper-Presentation-VISISTA-2K25.pdf) |
 | Workshop on Generative AI (Oct 2024)        | MRCE CSE Department          | [`Generative-AI-Workshop-MRCE.pdf`](Events-and-Achievements/Generative-AI-Workshop-MRCE.pdf) |
+| Blind Coding – Technical Fest (2024)        | MRCE CSE / Tech Fest         | [`Blind-Coding-MRCE-TechFest-2024.pdf`](Events-and-Achievements/Blind-Coding-MRCE-TechFest-2024.pdf) |
+
 
 ---
 
@@ -42,6 +44,7 @@ Certifications/
     ├── AI-Chatbot-Competition-2nd-Place.pdf
     ├── Paper-Presentation-VISISTA-2K25.pdf
     └── Generative-AI-Workshop-MRCE.pdf
+    └── Blind-Coding-MRCE-TechFest-2024.pdf
  ``` 
 
 ---
